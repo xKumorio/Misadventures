@@ -1,6 +1,7 @@
 MISADVENTURES
 
 
+![image](https://github.com/user-attachments/assets/98434249-55ef-4079-bda3-13cc1f9a9ea5)
 
 Функции для каптов
 Умный нарко-таймер
